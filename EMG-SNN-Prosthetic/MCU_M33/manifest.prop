@@ -1,5 +1,0 @@
-MANIFEST_VERSION = openstlinux-6.6-yocto-scarthgap-mpu-v25.06.11
-KERNEL_DT = ./DeviceTree/SNN_Prosthetic_Arm/kernel
-OPTEE_DT = ./DeviceTree/SNN_Prosthetic_Arm/optee-os
-UBOOT_DT = ./DeviceTree/SNN_Prosthetic_Arm/u-boot
-TFA_DT = ./DeviceTree/SNN_Prosthetic_Arm/tf-a
