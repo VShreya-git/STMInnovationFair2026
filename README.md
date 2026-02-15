@@ -1,5 +1,4 @@
 SNN-Based Adaptive EMG Prosthetic Arm with Qi Wireless Charging and Intelligent Battery Management
-Overview
 
 This project presents the design and implementation of an adaptive EMG-controlled prosthetic arm integrating spike-based signal processing with intelligent power management. The system acquires surface electromyography (EMG) signals from muscle activity, which are conditioned, digitized, and processed using a Spiking Neural Network (SNN) for real-time gesture classification. The classified outputs are translated into PWM control signals to actuate multiple servo motors, enabling coordinated prosthetic arm movement.
 
