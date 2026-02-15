@@ -1,4 +1,4 @@
-##D ataset References for EMG & Prosthetic Control
+## Dataset References for EMG & Prosthetic Control
 
 ### Ninapro 
 **Link:** https://ninapro.hevs.ch/  
