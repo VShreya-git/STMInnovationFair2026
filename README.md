@@ -19,3 +19,4 @@ By combining adaptive EMG interpretation, embedded spike-based classification, w
 
 <img width="880" height="368" alt="Wireless Charging Block Diagram" src="https://github.com/user-attachments/assets/abe429a9-483d-4375-ae51-0b16cf960f98" />
 
+In summary, the proposed system delivers an energy-aware, adaptive prosthetic solution that combines real-time EMG interpretation, intelligent battery supervision, and wireless charging to enhance reliability, usability, and user safety.
