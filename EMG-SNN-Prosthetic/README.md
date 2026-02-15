@@ -3,7 +3,7 @@
 An intelligent prosthetic arm control system using 
 Electromyography (EMG) signals and a Spiking Neural Network (SNN).
 
-Built on the STM32MP257 platform, the system performs:
+Built on the STM32MP257F-DK platform, the system performs:
 
 - EMG signal acquisition
 - Spike encoding and preprocessing
