@@ -5,3 +5,4 @@ This project presents the design and implementation of an adaptive EMG-controlle
 To ensure operational reliability and long-duration wearable functionality, the system incorporates a Qi-compliant wireless charging module alongside an integrated Battery Management System (BMS). The BMS continuously monitors Li-Po battery voltage, estimates the remaining charge percentage, and detects critical low-power thresholds to prevent deep discharge and unexpected shutdowns.
 
 By combining adaptive signal interpretation, embedded real-time control, and intelligent energy management, this project demonstrates a compact and energy-aware prosthetic platform suitable for advanced assistive and rehabilitation applications.
+<img width="1491" height="778" alt="Overall System Block Diagram" src="https://github.com/user-attachments/assets/0e8649a7-20a9-478b-8e9c-9209e7543ba6" />
