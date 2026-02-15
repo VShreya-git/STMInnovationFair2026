@@ -1,3 +1,5 @@
+## Model File References for Arm
+
 The mechanical structure of this prosthetic arm is based on the open-source InMoov Right Hand STL models. These 3D-printable components form the structural framework for the servo-driven actuation system used in this project.
 
 🔗 STL Source:
