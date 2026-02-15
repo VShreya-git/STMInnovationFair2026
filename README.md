@@ -11,11 +11,11 @@ When the battery level falls below predefined thresholds, the system automatical
 By combining adaptive EMG interpretation, embedded spike-based classification, wireless charging capability, and intelligent energy monitoring with remote alerting, this project demonstrates a compact, connected, and energy-aware prosthetic platform suitable for advanced assistive and rehabilitation applications.
 
 
-###Overall System Block Diagram
+### Overall System Block Diagram
 
 <img width="1491" height="778" alt="Overall System Block Diagram" src="https://github.com/user-attachments/assets/0e8649a7-20a9-478b-8e9c-9209e7543ba6" />
 
-###Wireless Charging System Block Diagram**
+### Wireless Charging System Block Diagram
 
 <img width="880" height="368" alt="Wireless Charging Block Diagram" src="https://github.com/user-attachments/assets/abe429a9-483d-4375-ae51-0b16cf960f98" />
 
